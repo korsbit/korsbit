@@ -1,4 +1,4 @@
-### printf("Hello Friend!");
+### Hi :grinning:
 
 - :books: Software engineering student
 - :technologist: Linux enjoyer
