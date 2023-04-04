@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img src="https://github.com/korsbit/korsbit/blob/main/8bit.gif" height="60">
+<img src="https://github.com/korsbit/korsbit/blob/main/8bit.gif">
 
 <div>
 <a href="https://github.com/korsbit">
