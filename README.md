@@ -1,7 +1,4 @@
-### Hi :grinning:
-
-- :books: Software engineering student
-- :technologist: Linux enjoyer
+### Hello Friend!
 
 <div>
 <a href="https://github.com/korsbit">
