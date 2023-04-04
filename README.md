@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=korsbit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F251990541629729392%2F&psig=AOvVaw2Qz494wpWtx7rZah1qa_sV&ust=1680716528747000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKiIqZDjkP4CFQAAAAAdAAAAABAg)
+![](8bit.gif)
