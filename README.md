@@ -1,11 +1,7 @@
-### Hi there 👋
+### printf("Hello Friend!");
 
-**korsbit/korsbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- :books: Estudante de Engenharia de Software!
-- :technologist: Entusiasta do mundo Linux!
+- :books: Software engineering student
+- :technologist: Linux enjoyer
 
 <div>
 <a href="https://github.com/korsbit">
