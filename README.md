@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=korsbit&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
 </div>
 
-<img align="right" src="https://github.com/korsbit/korsbit/blob/main/8bit.gif" height="50">
+<img align="right" src="https://github.com/korsbit/korsbit/blob/main/8bit.gif" height="30">
