@@ -1,4 +1,4 @@
-### Hello Friend!
+<h2 align="center">Hello Friend!</h2>
 ---
 
 <p align="center">
