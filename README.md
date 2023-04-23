@@ -4,5 +4,7 @@
 <p>I'm a Brazilian guy who has an interest in software development, nothing more needs to be told.</p>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=korsbit)](https://github.com/korsbit/github-readme-stats)
+
 
 
