@@ -1,6 +1,6 @@
 <h2 align="center" style="color: purple">Korsbit ~ Guilherme</h2>
 
-Ola! Me chamo Guilherme e sou um estudante de engenharia de software apaixonado por Linux. No atual momento me encontro evoluindo progressivamente como desenvolvedor fullstack.
+<p>Hello, my name is <em>Guilherme<em>, and I am a software engineering student passionate about Linux. Currently, I find myself seeking progressive evolution as a <em>fullstack<em> developer.</p>
 
 
 <!-- <div>
@@ -11,6 +11,7 @@ Ola! Me chamo Guilherme e sou um estudante de engenharia de software apaixonado 
 </div> -->
 
 
+#### Analysis:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korsbit&layout=compact&theme=highcontrast&hide_border=true" alt="">
 <img src="https://github-readme-stats.vercel.app/api?username=korsbit&show_icons=true&theme=highcontrast&hide_border=true"/>
 
