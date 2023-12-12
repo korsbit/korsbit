@@ -14,8 +14,8 @@
 
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=korsbit&show_icons=true&theme=dark"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=korsbit&show_icons=true&theme=highcontrast"/>
 	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korsbit&hide_progress=true&theme=tokyonight"/> -->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korsbit&layout=compact&theme=dark" alt="">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korsbit&layout=compact&theme=highcontrast" alt="">
 </div>
 
