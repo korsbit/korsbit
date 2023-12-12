@@ -1,6 +1,6 @@
 <h2 align="center" style="color: purple">Korsbit ~ Guilherme</h2>
 
-<p>Hello, my name is <em>Guilherme<em>, and I am a software engineering student passionate about Linux. Currently, I find myself seeking progressive evolution as a <em>fullstack<em> developer.</p>
+<p>Hello, my name is </trong>Guilherme</strong>, and I am a software engineering student passionate about Linux. Currently, I find myself seeking progressive evolution as a <strong>fullstack developer</strong>.</p>
 
 
 <!-- <div>
