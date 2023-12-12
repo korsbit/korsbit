@@ -15,7 +15,8 @@ Ola! Me chamo Guilherme e sou um estudante de engenharia de software apaixonado 
 <img src="https://github-readme-stats.vercel.app/api?username=korsbit&show_icons=true&theme=highcontrast&hide_border=true"/>
 
 #### Skills:
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="" />
-
+<div>
+	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="" />
+	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="" />
+</div>
 
