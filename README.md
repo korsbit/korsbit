@@ -1,6 +1,6 @@
 <h2 align="center" style="color: purple">Korsbit ~ Guilherme</h2>
 
-<p>Hello, my name is </trong>Guilherme</strong>, and I am a software engineering student passionate about Linux. Currently, I find myself seeking progressive evolution as a <strong>fullstack developer</strong>.</p>
+<p><em>Hello, my name is </trong>Guilherme</strong>, and I am a software engineering student passionate about Linux. Currently, I find myself seeking progressive evolution as a <strong>fullstack developer</strong>.</em></p>
 
 
 <!-- <div>
@@ -12,8 +12,10 @@
 
 
 #### Analysis:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korsbit&layout=compact&theme=highcontrast&hide_border=true" alt="">
-<img src="https://github-readme-stats.vercel.app/api?username=korsbit&show_icons=true&theme=highcontrast&hide_border=true"/>
+<div>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korsbit&layout=compact&theme=highcontrast&hide_border=true" alt="">
+	<img src="https://github-readme-stats.vercel.app/api?username=korsbit&show_icons=true&theme=highcontrast&hide_border=true"/>
+</div>
 
 #### Skills:
 <div>
