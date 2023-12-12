@@ -1,4 +1,4 @@
-<h2 align="center" style="color: purple;">Korsbit ~ Guilherme</h2>
+<h2 align="center" style="color: purple">Korsbit ~ Guilherme</h2>
 
 <div align="left">
 <p>Brazilian guy who likes software development.</p>
